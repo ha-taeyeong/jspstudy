@@ -1,20 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="java.util.Map"/>
-<fullyQualifiedTypeName name="org.apache.jasper.tagplugins.jstl.core.Catch"/>
-<fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
-<fullyQualifiedTypeName name="org.json.simple.parser.ParseException"/>
-<fullyQualifiedTypeName name="java.io.File"/>
-<fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
-<fullyQualifiedTypeName name="java.io.PrintWriter"/>
-<fullyQualifiedTypeName name="java.util.HashMap"/>
-<fullyQualifiedTypeName name="java.io.InputStream"/>
-<fullyQualifiedTypeName name="model.GetToday"/>
-<fullyQualifiedTypeName name="java.sql.Time"/>
-<fullyQualifiedTypeName name="model.GetNow"/>
-<fullyQualifiedTypeName name="java.util.Set"/>
-<fullyQualifiedTypeName name="java.util.HashSet"/>
-<fullyQualifiedTypeName name="model.GetLotto"/>
 <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
 <fullyQualifiedTypeName name="model.GugudanService"/>
 <fullyQualifiedTypeName name="model.BeerService"/>
@@ -31,7 +16,6 @@
 <fullyQualifiedTypeName name="model.CircleCommand"/>
 <fullyQualifiedTypeName name="javax.servlet.http.HttpServletResponseWrapper"/>
 <fullyQualifiedTypeName name="java.lang.Integer"/>
-<fullyQualifiedTypeName name="common.ModelAndView"/>
 <fullyQualifiedTypeName name="java.lang.Override"/>
 <fullyQualifiedTypeName name="com.sun.xml.internal.bind.annotation.OverrideAnnotationOf"/>
 <fullyQualifiedTypeName name="java.util.Date"/>
@@ -55,9 +39,25 @@
 <fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
 <fullyQualifiedTypeName name="javax.servlet.http.HttpServletResponse"/>
 <fullyQualifiedTypeName name="command.member.ModelAndView"/>
-<fullyQualifiedTypeName name="dao.MemberDAO"/>
 <fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="command.member.LoginPageCommand"/>
+<fullyQualifiedTypeName name="controller.MemberController"/>
+<fullyQualifiedTypeName name="controller.CommandMapper"/>
+<fullyQualifiedTypeName name="common.ModelAndView"/>
+<fullyQualifiedTypeName name="command.member.JoinPageCommand"/>
+<fullyQualifiedTypeName name="dto1.MemberDTO"/>
+<fullyQualifiedTypeName name="dto2.BoardDTO"/>
+<fullyQualifiedTypeName name="command.member.MemberCommand"/>
+<fullyQualifiedTypeName name="command.member.LogoutCommand"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+<fullyQualifiedTypeName name="command.member.JoinCommand"/>
+<fullyQualifiedTypeName name="dto2.MemberDTO"/>
+<fullyQualifiedTypeName name="dao.MemberDAO"/>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="org.json.simple.parser.JSONParser"/>
 <fullyQualifiedTypeName name="org.json.simple.JSONArray"/>
 <fullyQualifiedTypeName name="org.json.simple.JSONObject"/>
+<fullyQualifiedTypeName name="java.io.BufferedWriter"/>
+<fullyQualifiedTypeName name="java.io.FileWriter"/>
 </qualifiedTypeNameHistroy>

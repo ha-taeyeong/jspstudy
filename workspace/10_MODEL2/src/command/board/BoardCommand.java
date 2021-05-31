@@ -1,9 +1,10 @@
-package command.member;
+package command.board;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-public interface ModelAndView {
-	
+import common.ModelAndView;
+
+public interface BoardCommand {
 	public ModelAndView execute(HttpServletRequest request, HttpServletResponse response);
 }

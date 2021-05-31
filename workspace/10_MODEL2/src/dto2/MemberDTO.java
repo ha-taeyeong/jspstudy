@@ -1,4 +1,4 @@
-package dto1;
+package dto2;
 
 import java.sql.Date;
 
@@ -11,13 +11,17 @@ public class MemberDTO {
 	private String email;
 	private Date regdate;
 	
-	public MemberDTO(){}
+
 	public MemberDTO(String id, String pw, String name, String email) {
 		super();
 		this.id = id;
 		this.pw = pw;
 		this.name = name;
 		this.email = email;
+	}
+
+	public MemberDTO() {
+		// TODO Auto-generated constructor stub
 	}
 
 	public long getNo() {

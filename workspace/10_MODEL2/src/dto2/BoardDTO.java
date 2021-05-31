@@ -1,4 +1,4 @@
-package dto1;
+package dto2;
 
 import java.sql.Date;
 
@@ -75,6 +75,7 @@ public class BoardDTO {
 	public void setLastmodified(Date lastmodified) {
 		this.lastmodified = lastmodified;
 	}
+	
 	
 	
 }

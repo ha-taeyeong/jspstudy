@@ -22,7 +22,8 @@
 	
 		<header>
 			<a href="/10_MODEL2/index.do">
-				<img src="<%=request.getContextPath()%>/assets/images/daum.png" alt="로고" style="width: 200px;">
+				<img src="<%=request.getContextPath()%>/assets/images/daum.png" 
+				alt="로고" style="width: 200px;">
 			</a>
 			<nav>
 				<ul>

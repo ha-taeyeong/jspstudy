@@ -23,5 +23,4 @@ public class LogoutCommand implements MemberCommand {
 		return new ModelAndView("/10_MODEL2/index.do", true);  // true는 redirect
 	
 	}
-
 }

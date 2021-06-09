@@ -34,7 +34,12 @@ public class BoardController extends HttpServlet {
 		
 		ModelAndView mav = null;
 		if (command != null) {
-			mav = command.execute(request, response);
+			try {
+				mav = command.execute(request, response);
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
 		}
 		
 		if (mav == null) {

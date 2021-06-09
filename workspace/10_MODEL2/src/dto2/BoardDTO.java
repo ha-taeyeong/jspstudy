@@ -75,6 +75,12 @@ public class BoardDTO {
 	public void setLastmodified(Date lastmodified) {
 		this.lastmodified = lastmodified;
 	}
+	@Override
+	public String toString() {
+		return "BoardDTO [idx=" + idx + ", author=" + author + ", title=" + title + ", content=" + content + ", hit="
+				+ hit + ", ip=" + ip + ", filename=" + filename + ", state=" + state + ", postdate=" + postdate
+				+ ", lastmodified=" + lastmodified + "]";
+	}
 	
 	
 	

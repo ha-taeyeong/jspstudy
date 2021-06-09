@@ -50,5 +50,4 @@ public class UpdateMemberCommand implements MemberCommand {
 		
 		return null;
 	}
-
 }

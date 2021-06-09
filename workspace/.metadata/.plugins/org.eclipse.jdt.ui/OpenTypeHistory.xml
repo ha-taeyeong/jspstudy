@@ -2,5 +2,15 @@
 <typeInfoHistroy>
 <typeInfo handle="=07_MVC/src&lt;model{ShapeCommand.java[ShapeCommand" modifiers="513" timestamp="1621820591090"/>
 <typeInfo handle="=08_MVC/src&lt;model{ScoreCommand.java[ScoreCommand" modifiers="513" timestamp="1621823835921"/>
-<typeInfo handle="=10_MODEL2/C:\/Program Files\/Java\/jre1.8.0_202\/lib\/rt.jar=/owner.project.facets=/java=/=/javadoc_location=/https:\/\/docs.oracle.com\/javase\/8\/docs\/api\/=/&lt;java.lang.reflect(Member.class[Member" modifiers="1537" timestamp="1620605582180"/>
+<typeInfo handle="=10_MODEL2/src&lt;command.member{MemberCommand.java[MemberCommand" modifiers="513" timestamp="1622183045076"/>
+<typeInfo handle="=10_MODEL2/src&lt;command.board{BoardCommand.java[BoardCommand" modifiers="513" timestamp="1622611928450"/>
+<typeInfo handle="=11_MYBATIS/src&lt;command{BoardCommand.java[BoardCommand" modifiers="513" timestamp="1622612720152"/>
+<typeInfo handle="=12_AJAX/C:\/Program Files\/Java\/jre1.8.0_202\/lib\/rt.jar=/owner.project.facets=/java=/=/javadoc_location=/https:\/\/docs.oracle.com\/javase\/8\/docs\/api\/=/&lt;java.lang.reflect(Member.class[Member" modifiers="1537" timestamp="1620605582180"/>
+<typeInfo handle="=12_AJAX/src&lt;command{MemberCommand.java[MemberCommand" modifiers="513" timestamp="1622768972665"/>
+<typeInfo handle="=13_AJAX/src&lt;command{MemberCommand.java[MemberCommand" modifiers="513" timestamp="1623041346877"/>
+<typeInfo handle="=14_BATCH/E:\/SPRING0303\/jspstudy\/workspace\/14_BATCH\/WebContent\/WEB-INF\/lib\/quartz-2.3.0-SNAPSHOT.jar&lt;org.quartz.core.jmx(QuartzSchedulerMBean.class[QuartzSchedulerMBean" modifiers="1537" timestamp="1623120415524"/>
+<typeInfo handle="=14_BATCH/E:\/SPRING0303\/jspstudy\/workspace\/14_BATCH\/WebContent\/WEB-INF\/lib\/quartz-2.3.0-SNAPSHOT.jar&lt;org.quartz.ee.jmx.jboss(QuartzServiceMBean.class[QuartzServiceMBean" modifiers="1537" timestamp="1623120415524"/>
+<typeInfo handle="=14_BATCH/C:\/Program Files\/Java\/jre1.8.0_202\/lib\/rt.jar=/owner.project.facets=/java=/=/javadoc_location=/https:\/\/docs.oracle.com\/javase\/8\/docs\/api\/=/&lt;javax.lang.model.element(QualifiedNameable.class[QualifiedNameable" modifiers="1537" timestamp="1620605582180"/>
+<typeInfo handle="=14_BATCH/E:\/SPRING0303\/jspstudy\/workspace\/14_BATCH\/WebContent\/WEB-INF\/lib\/quartz-2.3.0-SNAPSHOT.jar&lt;org.quartz(Job.class[Job" modifiers="1537" timestamp="1623120415524"/>
+<typeInfo handle="=14_BATCH/src&lt;command{StudentCommand.java[StudentCommand" modifiers="513" timestamp="1623133698976"/>
 </typeInfoHistroy>

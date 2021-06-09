@@ -56,7 +56,7 @@ public class MemberDAO {
 	public MemberDTO login(MemberDTO dto) {
 		MemberDTO loginDTO = null;
 		try {
-			con = dataSource.getConnection();  // Connection을 가지고 있는 dataSource로ㅜ터
+			con = dataSource.getConnection();  // Connection을 가지고 있는 dataSource로부터 con을 가져온다.
 			sql = "SELECT NO, ID, PW, NAME, EMAIL, REGDATE FROM MEMBER WHERE ID = ? AND PW = ?";
 			ps = con.prepareStatement(sql);
 			ps.setNString(1, dto.getId());
@@ -101,7 +101,7 @@ public class MemberDAO {
 			con = dataSource.getConnection();
 			sql = "UPDATE MEMBER_LOG SET LOGOUT = SYSDATE WHERE ID = ? AND LOGOUT IS NULL";
 			ps = con.prepareStatement(sql);
-			ps.setNString(1, id);
+			ps.setString(1, id);
 			ps.executeUpdate();
 		} catch (Exception e) {
 			e.printStackTrace();
@@ -197,8 +197,4 @@ public class MemberDAO {
 			close(con, ps, null);
 		}
 	}
-	
-	
-	
-	
 }
